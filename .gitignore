@@ -1,0 +1,10 @@
+*.class
+*.jar
+/.nrepl-port
+/.repl
+/.idea
+*.iml
+*.asc
+target/
+/.lsp
+/.clj-kondo
